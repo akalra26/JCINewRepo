@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2ewjArw3NUuD80RWX7FvafpuxoYeXb7Cy+LRzWId9DI=",
+  "Source": "DotNetCLI",
+  "BasePath": "_content/DotNetCLI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
